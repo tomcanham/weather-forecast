@@ -1,0 +1,11 @@
+{
+  "name": "weather-react-server",
+  "version": "1.0.0",
+  "description": "Interactive Weather Page Server",
+  "main": "index.js",
+  "author": "Tom Canham",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
