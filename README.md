@@ -1,4 +1,4 @@
-# Oracle Coding Challenge -- Weather Application
+# React.js Weather Application
 
 This is a single page React.js application which uses the API at http://openweathermap.org to display a graphical five day forecast for a selected city.
 
